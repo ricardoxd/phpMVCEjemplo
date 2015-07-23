@@ -1,0 +1,2 @@
+usuario nombre y contraseña a la base de datos se coloca en el archivo 
+modelo/db.class.php

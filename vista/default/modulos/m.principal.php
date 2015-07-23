@@ -1,0 +1,1 @@
+<center>Bienvenido(a) <?php echo $_SESSION['usuario'];?></center>
